@@ -158,7 +158,7 @@ readme.md
 To install, download the project from the repository:
 
 ```bash
-  git clone https://github.com/fabinnerself/E5-pokedex-fmg.git
+  git clone https://github.com/fabinnerself/productAPI.git
 
   Then run:
 
